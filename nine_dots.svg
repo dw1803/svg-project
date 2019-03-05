@@ -1,0 +1,20 @@
+<!-- Nine Dots -->
+
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_9"/>
+  <g id="svg_14">
+   <circle stroke="#000000" id="svg_2" r="72.31488" cy="393.70574" cx="161.64041" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#000000"/>
+   <circle stroke="#000000" id="svg_4" r="72.31488" cy="392.70574" cx="315.90006" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#000000"/>
+   <circle stroke="#000000" r="72.31488" cy="236.60004" cx="161.64042" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#000000" id="svg_3"/>
+   <circle stroke="#000000" r="72.31487" cy="236.73848" cx="315.90007" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#000000" id="svg_5"/>
+   <circle stroke="#000000" r="72.31487" cy="392.70575" cx="471.25062" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#000000" id="svg_1"/>
+   <circle stroke="#000000" r="72.31487" cy="236.73847" cx="471.2506" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#000000" id="svg_7"/>
+   <circle id="svg_11" stroke="#000000" r="72.31488" cy="83.43079" cx="161.64042" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#000000"/>
+   <circle id="svg_12" stroke="#000000" r="72.31487" cy="83.56923" cx="315.90005" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#000000"/>
+   <circle id="svg_13" stroke="#000000" r="72.31487" cy="83.56922" cx="471.25062" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#000000"/>
+  </g>
+ </g>
+</svg>

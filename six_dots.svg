@@ -1,0 +1,14 @@
+<!-- Six Dots -->
+
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <circle stroke="#000000" fill="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="255.125" cy="76.00001" r="63.52063" id="svg_9"/>
+  <circle id="svg_1" stroke="#000000" fill="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="390.62501" cy="76.00001" r="63.52063"/>
+  <circle stroke="#000000" fill="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="255.12499" cy="392.99999" r="63.52063" id="svg_2"/>
+  <circle stroke="#000000" fill="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="390.62502" cy="393.99999" r="63.52063" id="svg_4"/>
+  <circle id="svg_3" stroke="#000000" fill="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="255.12498" cy="255.99999" r="63.52063"/>
+  <circle id="svg_5" stroke="#000000" fill="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="390.62503" cy="256.99999" r="63.52063"/>
+ </g>
+</svg>
